@@ -1,4 +1,4 @@
-package main
+package gochatcommon
 
 import (
 	"github.com/golang-jwt/jwt"

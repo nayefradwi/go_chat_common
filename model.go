@@ -1,4 +1,4 @@
-package main
+package gochatcommon
 
 type BaseError struct {
 	error   `json:"-"`
