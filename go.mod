@@ -1,4 +1,4 @@
-module github.com/nayefradwi/go_chat/common
+module github.com/nayefradwi/go_chat_common
 
 go 1.18
 
